@@ -1,0 +1,20 @@
+Update your environment by running this command:
+
+    sudo apt update
+
+Install MongoDB:   
+
+    sudo apt install mongodb
+
+Check status:
+
+    sudo service mongodb start
+    sudo service mongodb status
+
+Creation of the docker-compose.yml file:
+
+
+
+
+
+  
